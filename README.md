@@ -1,6 +1,7 @@
 # Iris-Flower-Species-Classification-with-Power-BI
 
 # Introduction
+
 This report presents a comprehensive analysis of the Iris flower dataset, utilizing Power BI to visualize and gain insights from the data.
 
 The Iris dataset is a classic dataset in machine learning, often used for classification tasks.
@@ -30,7 +31,13 @@ Iris Virginica
 
 # Exploratory Data Analysis
 
+
+![image](https://github.com/user-attachments/assets/6ee7462c-fbd6-490d-9e5c-39ba2712eaac)
+
+
+
 **Key Findings from the Dashboard:**
+
 
 **Species Distribution:** The dataset is evenly distributed across the three species.
 
